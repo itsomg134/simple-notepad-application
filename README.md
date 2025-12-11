@@ -152,7 +152,3 @@ Twitter (X): @omgedam
 LinkedIn: Om Gedam
 
 Portfolio: https://ogworks.lovable.app
-
----
-
-Made with ❤️ by [Your Name]
